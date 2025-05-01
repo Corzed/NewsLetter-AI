@@ -19,7 +19,7 @@ A simple Python-based newsletter generator that uses the OrchestrAI framework an
 1. Clone this repository
 
    ```bash
-   git clone https://github.com/corzed/newsletter-generator.git
+   git clone https://github.com/corzed/newsletter-ai.git
    cd newsletter-generator
    ```
 
